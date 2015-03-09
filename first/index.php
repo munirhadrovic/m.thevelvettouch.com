@@ -293,11 +293,11 @@
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
 					<section id="navigation-menu-ourteam">
 							<ul id="menu-ourteam">
-                                <li><a href="#ourteam" data-transition="<?php echo $transitionefect ?>">Home</a></li>
-                                <li><a href="#ourteam" data-transition="<?php echo $transitionefect ?>">Services</a></li>
-                                <li><a href="#ourteam" data-transition="<?php echo $transitionefect ?>">Groomers</a></li>
-                                <li><a href="#ourteam" data-transition="<?php echo $transitionefect ?>">Gallery</a></li>
-                                <li><a href="#ourteam" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Services</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Groomers</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Gallery</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
                                 <li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact US</a></li>
 							</ul>
 					</section>
